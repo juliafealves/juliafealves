@@ -3,7 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juliafealves)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/juliafealves)
 
-💬 &nbsp;Chegue cá, pode me perguntar sobre qualquer coisa [aqui](https://github.com/juliafealves/juliafealves/issues/1)! Ficarei feliz em te ajudar.
+- 👩‍💻 &nbsp;Desenvolvedora de Software no [LSI](https://sites.google.com/view/lsi-ufcg)(UFCG)
+- 👩‍💻 &nbsp;Programadora na [CTIC](https://ctic.uepb.edu.br/)(UEPB)
+- 🏫 &nbsp;Graduanda em Bacharelado em Ciências da Computação (UFCG)
+- 🎓 &nbsp;Formada em Licenciatura em Computação (UEPB)
+- 📱 &nbsp;Especilista em Desenvolvimento para Dispositivos Móveis (UniFacisa)
+- 💬 &nbsp;Tem alguma dúvida técnica ou quer bater um papo? Pode perguntar [aqui](https://github.com/juliafealves/juliafealves/issues/1)! Ficarei feliz em te ajudar.
 
 ### Linguagens e Ferramentas:
 
