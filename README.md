@@ -1,9 +1,9 @@
 ## Hi, I'm Júlia! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/juliafealves/" target="_blank">
-  <img align="left" alt="Júlia Fernandes | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juliafealves)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/juliafealves)
+
+💬 &nbsp;Chegue cá, pode me perguntar sobre qualquer coisa [aqui](https://github.com/juliafealves/juliafealves/issues/1)! Ficarei feliz em te ajudar.
 
 ### Linguagens e Ferramentas:
 
