@@ -7,7 +7,7 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 
 - 👩‍💻 &nbsp;Desenvolvedora de Software no [LSI](https://sites.google.com/view/lsi-ufcg)(UFCG)
 - 💻 &nbsp;Programadora na [CTIC](https://ctic.uepb.edu.br/)(UEPB)
-- 👔 &nbsp;CEO e Sonhadora na Chica Digital
+- 👔 &nbsp;CEO e Sonhadora na [Chica Digital](https://github.com/chicadigital)
 - 🏫 &nbsp;Graduanda em Bacharelado em Ciências da Computação (UFCG)
 - 🎓 &nbsp;Formada em Licenciatura em Computação (UEPB)
 - 📱 &nbsp;Especialista em Desenvolvimento para Dispositivos Móveis (UniFacisa)
