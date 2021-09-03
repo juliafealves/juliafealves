@@ -6,7 +6,8 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/juliafealves)
 
 - 👩‍💻 &nbsp;Desenvolvedora de Software no [LSI](https://sites.google.com/view/lsi-ufcg)(UFCG)
-- 👩‍💻 &nbsp;Programadora na [CTIC](https://ctic.uepb.edu.br/)(UEPB)
+- 💻 &nbsp;Programadora na [CTIC](https://ctic.uepb.edu.br/)(UEPB)
+- 👔 &nbsp;CEO e Sonhadora na Chica Digital
 - 🏫 &nbsp;Graduanda em Bacharelado em Ciências da Computação (UFCG)
 - 🎓 &nbsp;Formada em Licenciatura em Computação (UEPB)
 - 📱 &nbsp;Especialista em Desenvolvimento para Dispositivos Móveis (UniFacisa)
