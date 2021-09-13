@@ -13,13 +13,15 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 - 📱 &nbsp;Especialista em Desenvolvimento para Dispositivos Móveis (UniFacisa)
 - 💬 &nbsp;Tem alguma dúvida técnica ou quer bater um papo? Pode perguntar [aqui](https://github.com/juliafealves/juliafealves/issues/1)! Ficarei feliz em te ajudar.
 
-### Linguagens e Ferramentas:
-
+## Linguagens e Ferramentas
+### Front-End
 <p>
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 </p>
-<br>
+
+**Estudos**
+- HTML5 e CSS3 parte 1: A primeira página da Web | Alura ([curso](https://www.alura.com.br/curso-online-html5-css3-primeiros-passos))
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
