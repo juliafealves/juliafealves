@@ -25,6 +25,14 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 - HTML5 e CSS3 parte 1: A primeira página da Web | Alura ([curso](https://www.alura.com.br/curso-online-html5-css3-primeiros-passos))
 - Vetores e Animação com SVG: Trabalhando com CSS e JavaScript | Alura ([curso](https://cursos.alura.com.br/course/svg-css-animacao))
 
+### Back-End
+<p>
+<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg">
+</p>
+
+**Estudos**
+- Introdução ao PHP: Primeiros passos com a linguagem | Alura ([curso](https://cursos.alura.com.br/course/php-primeiros-passos))
+
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
