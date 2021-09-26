@@ -14,6 +14,14 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 - 💬 &nbsp;Tem alguma dúvida técnica ou quer bater um papo? Pode perguntar [aqui](https://github.com/juliafealves/juliafealves/issues/1)! Ficarei feliz em te ajudar.
 
 ## Linguagens e Ferramentas
+### Design
+<p>
+<img height="50" src="https://www.acseo.fr/assets/img/icon/ux.png">
+</p>
+
+**Estudos**
+- Fundamentos de UX: Entenda a experiência de usuário | Alura ([curso](https://cursos.alura.com.br/course/fundamentos-ux-entendendo-experiencia-usuario))
+
 ### Front-End
 <p>
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
