@@ -15,13 +15,6 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 
 ## Linguagens e Ferramentas
 
-### Front-End
-<p>
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
-<img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/02/SVG_logo.svg">
-</p>
-
 ### 👩‍💻&nbsp;Programação
 <p>
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg">
