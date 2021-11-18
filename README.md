@@ -22,17 +22,13 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/02/SVG_logo.svg">
 </p>
 
-**Estudos**
-- HTML5 e CSS3 parte 1: A primeira página da Web | Alura ([curso](https://www.alura.com.br/curso-online-html5-css3-primeiros-passos))
-- Vetores e Animação com SVG: Trabalhando com CSS e JavaScript | Alura ([curso](https://cursos.alura.com.br/course/svg-css-animacao))
-
 ### 👩‍💻&nbsp;Programação
 <p>
 <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Javascript-shield.svg">
 </p>
 
 **Estudos**
-- Iniciando com Javascript | School of Net ([curso](https://www.schoolofnet.com/curso/frontend/javascript/iniciando-com-javascript-rev3/))
+- Node.js - Fundamentos | TreinaWeb ([curso](https://www.treinaweb.com.br/painel/cursos/nodejs-fundamentos))
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
