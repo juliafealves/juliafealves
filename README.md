@@ -21,7 +21,7 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 </p>
 
 **Estudos**
-- Node.js - Fundamentos | TreinaWeb ([curso](https://www.treinaweb.com.br/painel/cursos/nodejs-fundamentos))
+- JavaScript Completo ES6+ | Origamid ([curso](https://www.origamid.com/curso/javascript-completo-es6))
 
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats">
