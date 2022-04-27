@@ -3,11 +3,8 @@
 Tenho experiência em designer e desenvolvimento de software há mais de 10 anos...
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juliafealves)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/juliafealves)
 
 - 👩‍💻 &nbsp;Desenvolvedora de Software no [LSI](https://sites.google.com/view/lsi-ufcg)(UFCG)
-- 💻 &nbsp;Programadora na [CTIC](https://ctic.uepb.edu.br/)(UEPB)
-- 👔 &nbsp;CEO e Sonhadora na [Chica Digital](https://github.com/chicadigital)
 - 🏫 &nbsp;Graduanda em Bacharelado em Ciências da Computação (UFCG)
 - 🎓 &nbsp;Formada em Licenciatura em Computação (UEPB)
 - 📱 &nbsp;Especialista em Desenvolvimento para Dispositivos Móveis (UniFacisa)
