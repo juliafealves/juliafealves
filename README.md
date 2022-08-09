@@ -9,7 +9,7 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 - 🎓 &nbsp;Formada em Licenciatura em Computação (UEPB)
 - 📱 &nbsp;Especialista em Desenvolvimento para Dispositivos Móveis (UniFacisa)
 - 💬 &nbsp;Tem alguma dúvida técnica ou quer bater um papo? Pode perguntar [aqui](https://github.com/juliafealves/juliafealves/issues/1)! Ficarei feliz em te ajudar.
-
+<!----
 ## Linguagens e Ferramentas
 
 ### 👩‍💻&nbsp;Programação
@@ -35,4 +35,5 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
     />
   </a>
 </p>
+--!>
 
