@@ -4,7 +4,6 @@ Tenho experiência em designer e desenvolvimento de software há mais de 10 anos
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/juliafealves)
 
-- 👩‍💻 &nbsp;Desenvolvedora de Software no [LSI](https://sites.google.com/view/lsi-ufcg)(UFCG)
 - 🏫 &nbsp;Graduanda em Bacharelado em Ciências da Computação (UFCG)
 - 🎓 &nbsp;Formada em Licenciatura em Computação (UEPB)
 - 📱 &nbsp;Especialista em Desenvolvimento para Dispositivos Móveis (UniFacisa)
